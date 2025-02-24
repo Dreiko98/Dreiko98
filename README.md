@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
 <h1 align="left">Hello World! I'm Germán, a Spanish Data Scientist 👋🏼:</h1>
 
