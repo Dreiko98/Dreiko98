@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🛜 currently working on my own webpage<br>👨🏼‍🎓 studying data science at Universitat Politècnica de València<br>🎬 just started out with my youtube channel of vlogs</p>
+<p align="left">🛜 currently working on my own [webpage](https://germanmallo.com)<br>👨🏼‍🎓 studying data science at Universitat Politècnica de València<br>🎬 just started out with my youtube channel of vlogs</p>
 
 ###
 
